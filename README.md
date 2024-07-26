@@ -22,7 +22,7 @@ I would like to express my gratitude to the following individuals and resources 
 
 
 
-## Documentation - ## Introduction
+## Documentation - Introduction
 
 The Task List is a task management application designed to help users organize, track, and manage their daily tasks effectively. It features an intuitive interface for adding, viewing, and deleting tasks, making it an ideal tool for anyone looking to streamline their task management.
 
