@@ -20,11 +20,9 @@ I would like to express my gratitude to the following individuals and resources 
 | Accent Color 1    | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Accent Color 2    | ![#00d1a0](https://via.placeholder.com/10/00d1a0?text=+) #00d1a0 |
 
----
 
-## Documentation
 
-## Introduction
+## Documentation - ## Introduction
 
 The Task List is a task management application designed to help users organize, track, and manage their daily tasks effectively. It features an intuitive interface for adding, viewing, and deleting tasks, making it an ideal tool for anyone looking to streamline their task management.
 
@@ -59,7 +57,7 @@ Instructions to set up the app locally:
 
     - Connect an Android device or use an emulator.
     - Click on `Run` in the menu bar and select `Run 'app'`.
----
+
 ## FAQ
 
 #### **Q1: How do I add a new task in The Task List?**
@@ -100,7 +98,6 @@ Instructions to set up the app locally:
 - **Customizations:**
   - Allow users to customize the look and feel of their task lists with themes and layouts.
 
----
 
 ## Feedback
 
